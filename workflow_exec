@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd ~/Test
+
+python3 login_to_forvo.py
